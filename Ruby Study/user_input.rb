@@ -1,5 +1,5 @@
-puts "Enter your name:"
-name = gets.chomp()
+print "Enter your name:"
+name = gets
 puts "Hello: #{name}"
 
 # puts "--- Getting two numbers ---"
