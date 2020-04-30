@@ -1,4 +1,0 @@
-# This is just a sample
-
-Hello World
-today is April 21,2020
